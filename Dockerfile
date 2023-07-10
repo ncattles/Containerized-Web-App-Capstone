@@ -1,3 +1,3 @@
-FROM httpd:2.4
-COPY ./web-app/* /usr/local/apache2/htdocs/
+FROM nginx
+COPY capstone-app/ /usr/share/nginx/html/
 EXPOSE 80
