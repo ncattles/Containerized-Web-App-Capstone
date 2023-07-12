@@ -91,24 +91,25 @@ Key Findings
 Screenshots
 
 Docker Image in ECR
-![](/Users/ncattles/Desktop/Capstone 2/capstone-aws/images/ECR screenshot.png)
+![](./images/ECR%20screenshot.png)
 
 Deployed Applications
 
-![](/Users/ncattles/Desktop/Capstone 2/capstone-aws/images/ECR screenshot.png)
+![](./images/website%20screenshot%20#1.png)
+![](./images/website%20screenshot%20#2.png)
 
 EC2 Instance
 
-![](/Users/ncattles/Desktop/Capstone 2/capstone-aws/images/website screenshot #1.png)
-![](/Users/ncattles/Desktop/Capstone 2/capstone-aws/images/website screenshot #2.png)
+![](./images/instances%20screenshot.png)
+![](./images/instances%20used.png)
 
 Dockerfile
 
-![](/Users/ncattles/Desktop/Capstone 2/capstone-aws/images/Dockerfile.png)
+![](./images/Dockerfile.png)
 
 CloudFormation Template
 
-![](/Users/ncattles/Desktop/Capstone 2/capstone-aws/images/CloudFormation template.png)
+![](./images/CloudFormation%20stemplate.png)
 
 Conclusion
 
