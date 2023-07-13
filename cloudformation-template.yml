@@ -12,7 +12,7 @@ Resources:
         - IpProtocol: tcp
           FromPort: 22
           ToPort: 22
-          CidrIp: 104.5.233.62/32 # My IP address to allow SSH access
+          CidrIp: 0.0.0.0/32 # This would normally be my IP address to allow SSH access (since this is a public repo, I'm using a dummy IP address)
   EC2Instance:
     Type: AWS::EC2::Instance
     Properties:
