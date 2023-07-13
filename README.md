@@ -29,22 +29,22 @@ To set up and run the project locally, please follow these instructions:
 
 4. Test the Docker image:
    - Manually provision an EC2 instance and install Git and Docker.
-        '''
+        ```
         sudo yum install docker
         sudo yum install git
-        '''
+        ```
    - Ensure that the Docker service is running on the EC2 instance.
-        '''
+        ```
         sudo systemctl start docker
-        '''
+        ```
 5. Update the CloudFormation template:
    - Modify the provided CloudFormation template to include SSH access from your IP address.
-        '''
+        ```
         - IpProtocol: tcp
           FromPort: 22
           ToPort: 22
           CidrIp: 0.0.0.0/32 # Replace with your IP address
-        '''
+        ```
 
 6. Create the CloudFormation stack:
    - Launch the CloudFormation stack using the updated template.
@@ -107,7 +107,7 @@ EC2 Instance
 
 Dockerfile
 
-![Dockerfile](./images/dockerfile.png)
+![](./images/dockerfile.png)
 
 CloudFormation Template
 
