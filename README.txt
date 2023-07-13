@@ -91,25 +91,25 @@ Key Findings
 Screenshots
 
 Docker Image in ECR
-![Docker Image in ECR](./images/ecr.png)
+![Docker Image in ECR](/images/ecr.png)
 
 Deployed Applications
 
-![1](./images/website1.png)
-![2](./images/website2.png)
+![1](/images/website1.png)
+![2](/images/website2.png)
 
 EC2 Instance
 
-![1](./images/instance1.png)
-![2](./images/instance2.png)
+![1](/images/instance1.png)
+![2](/images/instance2.png)
 
 Dockerfile
 
-![Dockerfile](./images/dockerfile.png)
+![Dockerfile](/images/dockerfile.png)
 
 CloudFormation Template
 
-![CloudFormation Template](./images/cloudformation.png)
+![CloudFormation Template](/images/cloudformation.png)
 
 Conclusion
 
