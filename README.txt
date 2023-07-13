@@ -87,7 +87,8 @@ Please note that these instructions assume you have the necessary credentials an
 
 Key Findings
 
-[Describe the key findings or outcomes of your project. Highlight any important insights, challenges, or achievements.]
+Through the project workflow, I successfully made code modifications by updating the background image and text on the main page. Testing the Docker image on a manually provisioned EC2 instance confirmed its functionality and ensured proper containerization. Updating the CloudFormation template with SSH access and automated Git and Docker installations streamlined the provisioning process. By deploying the containerized web application on the EC2 instance and tracking all changes using GitHub, I achieved a successful outcome, showcasing my ability to modify code, containerize applications, provision infrastructure, and maintain version control throughout the project.
+
 Screenshots
 
 Docker Image in ECR
@@ -114,7 +115,4 @@ CloudFormation Template
 
 Conclusion
 
-
-[Provide a brief conclusion or summary of your capstone project, highlighting its significance and impact.]
-
-Feel free to customize and expand upon this template to fit your project's specific details and requirements. Remember to include accurate links to your GitHub repository and any relevant screenshots or documentation.
+In conclusion, my capstone project focused on deploying a containerized web application on an Amazon EC2 Instance using Docker, Git, and a CloudFormation template. I successfully completed the project by making code modifications, testing the Docker image, and automating the infrastructure setup. Throughout the project, I demonstrated my ability to utilize key technologies and methodologies, such as version control and containerization, to deploy a functional web application. This project allowed me to gain hands-on experience in provisioning infrastructure, implementing Docker containers, and managing code changes, ultimately showcasing my skills and knowledge in cloud-based application deployment.
