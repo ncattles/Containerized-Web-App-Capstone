@@ -1,9 +1,10 @@
 Capstone Project
 
 This is the README file for the Capstone project. It provides an overview of the project, setup instructions, project workflow, key findings, and includes relevant screenshots and documentation.
+
 Project Overview
 
-The Capstone project is focused on deploying a containerized web application on an Amazon EC2 Instance using Docker, Git, and a CloudFormation template for the infrastructure. The project repository can be found on GitHub: https://github.com/ncattles/capstone-2/tree/main
+This Capstone is focused on deploying a containerized web application on an Amazon EC2 Instance using Docker, Git, and a CloudFormation template for the infrastructure. The project repository can be found on GitHub: https://github.com/ncattles/capstone-2/tree/main
 
 Project Workflow
 
