@@ -107,7 +107,7 @@ EC2 Instance
 
 Dockerfile
 
-![Dockerfile](./images/docker.png)
+![Dockerfile](./images/docker1.png)
 
 CloudFormation Template
 
